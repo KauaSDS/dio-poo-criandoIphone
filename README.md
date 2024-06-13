@@ -25,3 +25,5 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
+MODELANDO AS CLASSES QUE REPRESENTAM AS FUNCIONALIDADES DE UM IPHONE
